@@ -42,7 +42,7 @@ Dataset used:
 
 ```bash
 pip install pandas numpy scikit-learn kagglehub
-
+```
 
 ---
 
@@ -53,3 +53,4 @@ pip install pandas numpy scikit-learn kagglehub
 ```python
 # Get recommendations for a drama
 recommend("Goblin")
+```
