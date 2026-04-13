@@ -42,3 +42,14 @@ Dataset used:
 
 ```bash
 pip install pandas numpy scikit-learn kagglehub
+
+
+---
+
+## ▶️ Usage
+
+### Load and Run the Recommendation System
+
+```python
+# Get recommendations for a drama
+recommend("Goblin")
